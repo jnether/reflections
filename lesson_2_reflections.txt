@@ -11,6 +11,7 @@ Using git diff can show if your adding too much or too little in the staging are
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+If there are multiple versions you would like to try to have or experiment with, branches can help keep them organized in different areas.
 
 How do the diagrams help you visualize the branch structure?
 
