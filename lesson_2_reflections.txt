@@ -14,6 +14,7 @@ organized? How would branches help?
 If there are multiple versions you would like to try to have or experiment with, branches can help keep them organized in different areas.
 
 How do the diagrams help you visualize the branch structure?
+Branch diagrams help if you are not a word person and need a visual structure of branches, they also allow for showing branches that could be lost "detached HEAD".
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
