@@ -20,5 +20,5 @@ What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 Places all changes into one file, two different paths merging together.
 
-What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
-manually?
+7) What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+Automatic takes the effort out of it, and it is quicker, manual lets you make sure your making the right changes.
